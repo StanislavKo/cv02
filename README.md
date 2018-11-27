@@ -21,4 +21,4 @@ mvn clean package
 cd project_folder
 java -Dspring.profiles.active=dev -jar target/depuser-0.0.1-SNAPSHOT.jar
 
-Test requests and responses are in responses.md file
+Test requests and responses are in ![responses.md](responses.md) file
